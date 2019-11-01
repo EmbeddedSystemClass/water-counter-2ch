@@ -1,6 +1,8 @@
 #folder History
 /History\
 /Project Logs for WT-METER-2CH
+/Project Outputs for WT-METER-2CH
+/WT-METER-2CH1
 /__Previews
 *.wmf
 *.zip
@@ -9,3 +11,4 @@
 *STEP
 *x_t
 *txt
+*.IntLib
